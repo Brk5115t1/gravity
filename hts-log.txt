@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 12 Jun 2019 03:16:59 at https://gnargebot.glitch.me/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://gnargebot.glitch.me/ -O1 "C:\Users\Burak\Desktop\Gravity-Bot" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:17:23	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/style.css (from https://gnargebot.glitch.me/)
+03:17:23	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/logo.png (from https://gnargebot.glitch.me/)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/fonts/themify.eot?-fvbane (from https://gnargebot.glitch.me/css/themify-icons.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/fonts/themify.eot? (from https://gnargebot.glitch.me/css/themify-icons.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/fonts/themify.woff?-fvbane (from https://gnargebot.glitch.me/css/themify-icons.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/fonts/themify.ttf?-fvbane (from https://gnargebot.glitch.me/css/themify-icons.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/fonts/themify.svg?-fvbane (from https://gnargebot.glitch.me/css/themify-icons.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/vendors/fontawesome/webfonts/fa-brands-400.svg (from https://gnargebot.glitch.me/vendors/fontawesome/css/all.min.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/vendors/fontawesome/webfonts/fa-regular-400.svg (from https://gnargebot.glitch.me/vendors/fontawesome/css/all.min.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/vendors/fontawesome/webfonts/fa-solid-900.svg (from https://gnargebot.glitch.me/vendors/fontawesome/css/all.min.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/vendors/owl-carousel/owl.video.play.png (from https://gnargebot.glitch.me/vendors/owl-carousel/owl.carousel.min.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/banner/banner-2.jpg (from https://gnargebot.glitch.me/css/style.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/elements/primary-check.png (from https://gnargebot.glitch.me/css/style.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/elements/success-check.png (from https://gnargebot.glitch.me/css/style.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/elements/primary-radio.png (from https://gnargebot.glitch.me/css/style.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/elements/success-radio.png (from https://gnargebot.glitch.me/css/style.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/icon/cotation.png (from https://gnargebot.glitch.me/css/style.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/elements/single_bg.png (from https://gnargebot.glitch.me/css/style.css)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/logo/1.png (from https://gnargebot.glitch.me/özellikler.html)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/logo/2.png (from https://gnargebot.glitch.me/özellikler.html)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/logo/3.png (from https://gnargebot.glitch.me/özellikler.html)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/logo/4.png (from https://gnargebot.glitch.me/özellikler.html)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/logo/5.png (from https://gnargebot.glitch.me/özellikler.html)
+03:17:34	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/favicon.png (from https://gnargebot.glitch.me/blog.html)
+03:17:37	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/single-blog.html (from https://gnargebot.glitch.me/blog.html)
+03:17:37	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/instagram/widget-i1.png (from https://gnargebot.glitch.me/blog.html)
+03:17:37	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/instagram/widget-i2.png (from https://gnargebot.glitch.me/blog.html)
+03:17:37	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/instagram/widget-i3.png (from https://gnargebot.glitch.me/blog.html)
+03:17:37	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/instagram/widget-i4.png (from https://gnargebot.glitch.me/blog.html)
+03:17:37	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/instagram/widget-i5.png (from https://gnargebot.glitch.me/blog.html)
+03:17:37	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/img/instagram/widget-i6.png (from https://gnargebot.glitch.me/blog.html)
+03:17:37	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/feature.html (from https://gnargebot.glitch.me/tek-blog.html)
+03:17:37	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/price.html (from https://gnargebot.glitch.me/tek-blog.html)
+03:17:37	Error: 	"Not Found" (404) at link https://gnargebot.glitch.me/contact.html (from https://gnargebot.glitch.me/tek-blog.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 38 seconds : 108 links scanned, 73 files written (5574976 bytes overall) [5327012 bytes received at 140184 bytes/sec], 391122 bytes transferred using HTTP compression in 2 files, ratio 28%, 6.4 requests per connection
+(34 errors, 0 warnings, 0 messages)
